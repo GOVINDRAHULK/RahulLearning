@@ -1,0 +1,12 @@
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.exe
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.dll
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\bin\Debug\netcoreapp3.1\Fileoperations.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.dll
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Fileoperations\Fileoperations\obj\Debug\netcoreapp3.1\Fileoperations.genruntimeconfig.cache
