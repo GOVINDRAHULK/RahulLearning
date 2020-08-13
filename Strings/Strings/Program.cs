@@ -7,6 +7,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
+            //adding this
             //CharArray to String
             char[] a = {'a','b','c','d','e'};
             string b = new string(a);
