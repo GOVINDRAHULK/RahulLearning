@@ -1,0 +1,13 @@
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
