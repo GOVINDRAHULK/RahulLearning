@@ -1,0 +1,13 @@
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
