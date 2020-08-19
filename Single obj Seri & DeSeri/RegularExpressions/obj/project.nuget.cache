@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80HyaRspmyhLpaV9jQOQKz2jqBoIboapXlFRRgvq8z64oyolvXBSP1ac9Bm4ZrZQ6TYbam7GcUf9HV6GwjvbnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAHUL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
