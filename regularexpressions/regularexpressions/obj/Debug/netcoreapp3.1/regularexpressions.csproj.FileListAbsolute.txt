@@ -1,0 +1,13 @@
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.exe
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.deps.json
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.runtimeconfig.json
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.runtimeconfig.dev.json
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.dll
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\bin\Debug\netcoreapp3.1\regularexpressions.pdb
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.csprojAssemblyReference.cache
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.AssemblyInfoInputs.cache
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.AssemblyInfo.cs
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.dll
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.pdb
+C:\Users\RAHUL\source\repos\regularexpressions\regularexpressions\obj\Debug\netcoreapp3.1\regularexpressions.genruntimeconfig.cache
