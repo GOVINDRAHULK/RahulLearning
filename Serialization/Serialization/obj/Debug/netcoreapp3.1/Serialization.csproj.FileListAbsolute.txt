@@ -1,0 +1,15 @@
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RAHUL\Desktop\Signify codes\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CopyComplete

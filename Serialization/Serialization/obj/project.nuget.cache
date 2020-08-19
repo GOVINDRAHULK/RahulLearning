@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPl5pqDSogjIq1M+2TAk2gUcgVmkiJcwY6sBMJhDT0L9zSXER2tkWwsiYusynE3t69+nbxdkNEKrS+Lvam7rVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\Serialization\\Serialization\\Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAHUL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
