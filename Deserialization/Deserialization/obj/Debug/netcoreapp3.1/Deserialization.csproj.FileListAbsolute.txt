@@ -1,0 +1,13 @@
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.exe
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Deserialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.genruntimeconfig.cache
