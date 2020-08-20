@@ -5,7 +5,7 @@ using System.IO;
 using System.Xml.Serialization;
 
 namespace Practice1
-{   //Serializing and Deserializing Collection data in to XML format
+{   //Serializing Collection data in to XML format
     [Serializable]
     public class Xml
     {
