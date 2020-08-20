@@ -7,7 +7,6 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-            //adding this
             //CharArray to String
             char[] a = {'a','b','c','d','e'};
             string b = new string(a);
@@ -63,11 +62,23 @@ namespace Strings
             //ToUpper function
             Console.WriteLine(ss.ToUpper());
 
-            //PadLeft
-            Console.WriteLine(s.PadLeft(6));
+            //PadLeft function
+            Console.WriteLine(s.PadLeft(10,'.'));
 
-            //PadRight
-            Console.WriteLine(s.PadRight(6));
+            //PadRight function
+            Console.WriteLine(s.PadRight(10,'.'));
+
+            //Trim function
+            char c1 = '*';
+            string s1 = "***RahulGovindKantheti***";
+            Console.WriteLine(s1.Trim(c1));
+
+            //Equals function
+            string m1 = "Hello";
+            string m2 = "hell no";
+            string m3 = "Hello";
+            Console.WriteLine(Equals(m1,m2));
+            Console.WriteLine(Equals(m1,m3));
         }
     }
 }
