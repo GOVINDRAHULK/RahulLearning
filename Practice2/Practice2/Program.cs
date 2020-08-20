@@ -1,18 +1,18 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
-using System.Dynamic;
 using System.IO;
-using System.Xml.Serialization;
 
-namespace Practice1
-{   //Serializing and Deserializing Collection data in to XML format
+namespace Practice2
+{
+    //Serializing and Deserializing Collection data in to Json format
     [Serializable]
-    public class Xml
+    public class Json
     {
         public List<Name> name { get; set; }
         public string mobile { get; set; }
         public string add { get; set; }
-        public Xml()
+        public Json()
         {
             name = new List<Name>();
         }
@@ -25,64 +25,73 @@ namespace Practice1
 
         public Name() { }
 
-        public Name(string fname,string mname, string lname)
+        public Name(string fname, string mname, string lname)
         {
             this.fname = fname;
             this.mname = mname;
             this.lname = lname;
         }
     }
-    
+    public class Root
+    {
+        public List<Json> Data { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\RAHUL\Desktop\xmlnew.txt";
-            
+            string path = @"C:\Users\RAHUL\Desktop\jsonnew.txt";
+
             //Serializing
 
             Name n = new Name();
-            Xml x = new Xml();
+            Json x = new Json();
             {
-                x.name.Add(new Name("govind","rahul","kantheti"));
+                x.name.Add(new Name("govind", "rahul", "kantheti"));
                 x.mobile = "7550268844";
                 x.add = "enclave";
             }
-            Xml x2 = new Xml();
+            Json x2 = new Json();
             {
                 x2.name.Add(new Name("rohit", "rama", "kantheti"));
                 x2.mobile = "8309072770";
                 x2.add = "mahal";
             }
 
-            List<Xml> p = new List<Xml>();
+            List<Json> p = new List<Json>();
             p.Add(x);
             p.Add(x2);
 
             StreamWriter sw = new StreamWriter(path);
-            XmlSerializer xx = new XmlSerializer(p.GetType(),new XmlRootAttribute("Details"));
-            xx.Serialize(sw,p);
+            JsonWriter jw = new JsonTextWriter(sw);
+            JsonSerializer jj = new JsonSerializer();
+            var dataObj = new { Data = p };
+            jj.Serialize(jw,dataObj);
             sw.Close();
 
             //Deserializing
-            
+
             StreamReader sr = new StreamReader(path);
-            List<Xml> ss = (List<Xml>)xx.Deserialize(sr);
-            
-            foreach(Xml sss in ss)
+            string line;
+            string json2 = "";
+            while ((line = sr.ReadLine()) != null)
             {
-                foreach(Name ssss in sss.name)
+                json2 += line;
+            }
+
+            var obj = JsonConvert.DeserializeObject<Root>(json2);
+
+            foreach (var sss in obj.Data)
+            {
+                foreach (Name ssss in sss.name)
                 {
                     Console.WriteLine(ssss.fname);
                     Console.WriteLine(ssss.mname);
                     Console.WriteLine(ssss.lname);
                 }
-                    
                 Console.WriteLine(sss.mobile);
                 Console.WriteLine(sss.add + "\n");
             }
-
-
         }
     }
 }
