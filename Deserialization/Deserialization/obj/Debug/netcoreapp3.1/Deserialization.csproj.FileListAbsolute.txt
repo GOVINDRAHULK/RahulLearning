@@ -7,7 +7,9 @@ C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\n
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csprojAssemblyReference.cache
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.AssemblyInfoInputs.cache
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.AssemblyInfo.cs
-C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csproj.CoreCompileInputs.cache
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.dll
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.pdb
 C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.genruntimeconfig.cache
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\Deserialization\Deserialization\obj\Debug\netcoreapp3.1\Deserialization.csproj.CopyComplete

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Xml.Serialization;
@@ -8,9 +10,13 @@ namespace Deserialization
     [Serializable]
     public class Sample
     {
-        public string fname ;
-        public string mname;
-        public string lname;
+        public string fname { get; set; }
+        public string mname { get; set; }
+        public string lname { get; set; }
+    }
+    public class Root
+    {
+        public List<Sample> Sample { get; set; }
     }
     class Program
     {

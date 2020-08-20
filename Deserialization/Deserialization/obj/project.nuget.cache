@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pFz0Jazxwfa6TWbTvRRny4bEO9pVCihhaa6uAaME7dtoaY/cb53oXY7TkCpbNotpOQvlAZSewx7r5dFmjmU7dA==",
+  "dgSpecHash": "+y1a/Da/PciOx01kZNSkLinp71RX+dVm9F2iJD+xzqc5vX7BWCMNp69ETee9YW31uWd3+VWc9SP6/TdfxdBhgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\Deserialization\\Deserialization\\Deserialization.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\RAHUL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

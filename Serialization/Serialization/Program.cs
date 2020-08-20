@@ -14,6 +14,7 @@ namespace Serialization
         public string mname { get; set; }
         public string lname { get; set; }
     }
+    
 
     public class SerializationClass
     {
@@ -28,6 +29,7 @@ namespace Serialization
 
         public void jsonserializer(object data,string filepath)
         {
+            
             if (File.Exists(filepath)) File.Delete(filepath);
             StreamWriter sw = new StreamWriter(filepath);
             JsonWriter jw = new JsonTextWriter(sw);
@@ -58,7 +60,8 @@ namespace Serialization
 
             SerializationClass sc = new SerializationClass();
             sc.xmlserializer(p.GetType(), p,path);
-            sc.jsonserializer(p, path);
+            var dataObj = new { Data = p};
+            sc.jsonserializer(dataObj, path);
 
         }
     }

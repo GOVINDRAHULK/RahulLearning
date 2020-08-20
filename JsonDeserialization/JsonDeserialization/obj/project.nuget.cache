@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBozqq530LrHP5/ciplMSyEkupNTYkSMPz0iKy6vL2SdpYrqaEa7UlX36SpsNDse5qIPUmF49qCJhjHr6/h0qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\JsonDeserialization\\JsonDeserialization\\JsonDeserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAHUL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

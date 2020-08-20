@@ -1,0 +1,15 @@
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.exe
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.AssemblyInfoInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.AssemblyInfo.cs
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.deps.json
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.runtimeconfig.json
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.runtimeconfig.dev.json
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\JsonDeserialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.csproj.CopyComplete
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.dll
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.pdb
+C:\Users\RAHUL\Desktop\Signify codes\JsonDeserialization\JsonDeserialization\obj\Debug\netcoreapp3.1\JsonDeserialization.genruntimeconfig.cache

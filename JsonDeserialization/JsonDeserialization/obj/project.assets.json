@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\Deserialization\\Deserialization\\Deserialization.csproj",
-      "projectName": "Deserialization",
-      "projectPath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\Deserialization\\Deserialization\\Deserialization.csproj",
+      "projectUniqueName": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\JsonDeserialization\\JsonDeserialization\\JsonDeserialization.csproj",
+      "projectName": "JsonDeserialization",
+      "projectPath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\JsonDeserialization\\JsonDeserialization\\JsonDeserialization.csproj",
       "packagesPath": "C:\\Users\\RAHUL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\Deserialization\\Deserialization\\obj\\",
+      "outputPath": "C:\\Users\\RAHUL\\Desktop\\Signify codes\\JsonDeserialization\\JsonDeserialization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
